@@ -5,7 +5,7 @@ This application will show bus lines and their stops on a street map of Paris an
 - List all lines entered into the application,
 - Project stops pertaining to a single, a selection of, or all lines on a street map,
 - Show how to get from one place (e.g. a street address or point on map) to another on the map with the network,
-- List all lines using a specific bus stop,
+- List all lines using a specific stop,
 - Allow user to create an account and log in/off,
 - Allow logged in user to save places (e.g. "Home", "Work", "Gym"; "Marché", etc.) on map for their future reference,
 - Allow user to delete account,
