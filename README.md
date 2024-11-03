@@ -16,4 +16,4 @@ The application could subsequently also:
 - Include other methods of transport, e.g. Vélib' (i.e. bicyclee sharing) stations, the metro network, etc, and include them in th e applications functionabilities,
 - Include timetables and real time journey planning.
 
-Bus lines will be scraped/ read & entered manually from (https://www.eutouring.com/paris_bus_route_maps.html) & (https://en.wikipedia.org/wiki/RATP_bus_network). Their stops will be scraped/copy-pasted from (https://www.bonjour-ratp.fr/en/c/arrets-bus/bus/) and machine fed into the applications database.
+Bus lines will be scraped/ read & entered manually from https://www.eutouring.com/paris_bus_route_maps.html & https://en.wikipedia.org/wiki/RATP_bus_network. Their stops will be scraped/copy-pasted from (https://www.bonjour-ratp.fr/en/c/arrets-bus/bus/) and machine fed into the applications database.
